@@ -1,1 +1,1 @@
-worker:python hum_batayenge.py
+worker: python hum_batayenge.py
